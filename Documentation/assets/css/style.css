@@ -1,0 +1,46 @@
+.Icv-heading{
+  font-size: 33px !important;
+  color: #525658;
+}
+.Icv-section{
+  border-bottom: 1px solid #eadfdf;
+}
+.Icv-sub-heading a{
+  color :#64676c;
+}
+.Icv-sub-heading a i{
+  color: #367fa9;
+  font-size: 20px;
+  margin-right: 5px;
+}
+.Icv-content{
+  padding: 10px 25px;
+}
+.lead{
+  font-size: 16px;
+  line-height: 28px;
+  text-align: justify;
+
+}
+.lead b{
+  color: #797373;
+}
+.Icv-title{
+  color: #75616c;
+}
+.main-header , .main-sidebar{
+  position: fixed;
+}
+.Icv-ol-step{
+  margin-bottom: 40px;
+}
+.Icv-ol-step li img{
+  margin: 10px 0;
+  width: 70%;
+  display: block;
+}
+.Icv-notice{
+  padding: 0px 20px;
+  font-size: 14px;
+  line-height: 22px;
+}

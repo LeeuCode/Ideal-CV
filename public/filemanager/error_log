@@ -1,0 +1,10 @@
+[13-Jul-2018 21:22:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_internal_encoding() in /home/eadhassanorg/public_html/IDEAL-CV/public/filemanager/config/config.php:5
+Stack trace:
+#0 /home/eadhassanorg/public_html/IDEAL-CV/public/filemanager/dialog.php(5): include()
+#1 {main}
+  thrown in /home/eadhassanorg/public_html/IDEAL-CV/public/filemanager/config/config.php on line 5
+[13-Jul-2018 21:22:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_internal_encoding() in /home/eadhassanorg/public_html/IDEAL-CV/public/filemanager/config/config.php:5
+Stack trace:
+#0 /home/eadhassanorg/public_html/IDEAL-CV/public/filemanager/dialog.php(5): include()
+#1 {main}
+  thrown in /home/eadhassanorg/public_html/IDEAL-CV/public/filemanager/config/config.php on line 5

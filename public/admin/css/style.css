@@ -1,0 +1,88 @@
+.wh-100{
+    width: 100%;
+}
+.additional-container{
+    background-color:#eee;
+    border:#ddd 1px solid;
+    width:100%;
+    padding:10px;
+    margin-top: 5%;
+}
+.block-remove{
+    color: red;
+    font-size: 20px;
+    cursor: pointer;
+}
+.modal-fonts{
+    max-height:500px;
+    overflow:auto;
+}
+.btn-ficon{
+    min-width:100px;
+    margin:1%;
+}
+.choose-icon , .fi-icon { 
+    min-width:100px;
+    margin:0;
+}
+.additional-title{
+    padding-top:5px;
+}
+.add-new-info{
+    margin: 2% 0; 
+}
+.social-select{
+    font-family: 'FontAwesome', 'sans-serif';
+    font-size:16px;
+}
+.skill-container{
+    border: 1px solid #ddd;
+    padding: 10px;
+    padding-top: 30px;
+    margin-bottom: 5%;
+}
+.add-skill{
+    margin-bottom: 10px;
+}
+.progress{
+    cursor: pointer;
+}
+.skill-title{
+    width: 100%;
+    text-align: center;
+}
+.skill-remove{
+    width: 100%;
+    color: red;
+    font-size: 16px;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+}
+.service-container{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 5%;
+}
+.section-block-remove{
+    color: #b10505;
+}
+.section-block-remove:hover{
+    color: #ff0000;
+}
+.project-block{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 5%;
+}
+.project-title{
+    margin-top: 10px;
+}
+.hg-125{
+    height: 125px;
+}
+.skin-blue .main-header .navbar {
+    background-color: #68735c;
+}
